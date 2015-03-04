@@ -24,8 +24,8 @@
 				{ "id": "107", "coordinates": [ 661, 26 ], "label":  "양주", "labelPosition": "n" },
 				{ "id": "108", "coordinates": [ 643, 26 ], "label":  "녹양", "labelPosition": "n" },
 				{ "id": "109", "coordinates": [ 626, 26 ], "label":  "가능", "labelPosition": "n" },
-				{ "id": "110", "coordinates": [ 601, 38 ], "label":  "의정부", "labelPosition": "s" },
-				{ "id": "111", "coordinates": [ 581, 38 ], "label":  "회룡", "labelPosition": "s" },
+				{ "id": "110", "coordinates": [ 601, 26 ], "label":  "의정부", "labelPosition": "s" },
+				{ "id": "111", "coordinates": [ 581, 26 ], "label":  "회룡", "labelPosition": "sw" },
 				{ "id": "112", "coordinates": [ 532, 26 ], "label":  "망월사", "labelPosition": "n" },
 				{ "id": "113", "coordinates": [ 503, 37 ], "label":  "도봉산", "labelPosition": "nw" },
 				{ "id": "114", "coordinates": [ 503, 50 ], "label":  "도봉", "labelPosition": "e" },
@@ -539,8 +539,8 @@
 				{ "id": "815", "coordinates": [ 542,337 ], "label":  "석촌", "labelPosition": "e" },
 				{ "id": "816", "coordinates": [ 542,351 ], "label":  "송파", "labelPosition": "e" },
 				{ "id": "817", "coordinates": [ 542,370 ], "label":  "가락시장", "labelPosition": "nw" },
-				{ "id": "818", "coordinates": [ 556,384 ], "label":  "문정", "labelPosition": "ne" },
-				{ "id": "819", "coordinates": [ 567,395 ], "label":  "장지", "labelPosition": "ne" },
+				{ "id": "818", "coordinates": [ 552,384 ], "label":  "문정", "labelPosition": "ne" },
+				{ "id": "819", "coordinates": [ 561,395 ], "label":  "장지", "labelPosition": "ne" },
 				{ "id": "820", "coordinates": [ 582,411 ], "label":  "복정", "labelPosition": "n" },
 				{ "id": "821", "coordinates": [ 609,411 ], "label":  "산성", "labelPosition": "s" },
 				{ "id": "822", "coordinates": [ 631,411 ], "label":  "남한산성입구", "labelPosition": "n" },
@@ -606,9 +606,9 @@
 		},
 		"branches": [
 			[
-				{ "id": "U110", "coordinates": [ 557,38 ], "label":  "발곡", "labelPosition": "s" },
-				{ "id": "U111", "coordinates": [ 581,38 ], "annotation":  "회룡" },
-				{ "id": "U112", "coordinates": [ 595,26 ], "label":  "범골", "labelPosition": "n" },
+				{ "id": "U110", "coordinates": [ 581,10 ], "label":  "발곡", "labelPosition": "w" },
+				{ "id": "U111", "coordinates": [ 581,26 ], "annotation":  "회룡" },
+				{ "id": "U112", "coordinates": [ 595,38 ], "label":  "범골", "labelPosition": "s" },
 				{ "id": "U113", "coordinates": [ 634,38 ], "label":  "경전철의정부", "labelPosition": "s" },
 				{ "id": "U114", "coordinates": [ 669,38 ], "label":  "의정부시청", "labelPosition": "s" },
 				{ "id": "U115", "coordinates": [ 691,38 ], "label":  "흥선", "labelPosition": "ne" },
@@ -647,7 +647,7 @@
 				{ "id": "K255", "coordinates": [ 370,580 ], "label":  "호구포", "labelPosition": "w" },
 				{ "id": "K256", "coordinates": [ 370,599 ], "label":  "남동인더스파크", "labelPosition": "e" },
 				{ "id": "K257", "coordinates": [ 370,619 ], "label":  "원인재", "labelPosition": "se" },
-				{ "id": "K258", "coordinates": [ 370,641 ], "label":  "연수", "labelPosition": "se" },
+				{ "id": "K258", "coordinates": [ 360,641 ], "label":  "연수", "labelPosition": "s" },
 				{ "id": "K259", "coordinates": [ 337,641 ], "label":  "송도", "labelPosition": "s" }
 			]
 		]
@@ -916,8 +916,8 @@
 				{ "id": "I131", "coordinates": [ 402,619 ], "label":  "동춘", "labelPosition": "s" },
 				{ "id": "I132", "coordinates": [ 418,619 ], "label":  "동막", "labelPosition": "s" },
 				{ "id": "I133", "coordinates": [ 443,619 ], "label":  "캠퍼스타운", "labelPosition": "s" },
-				{ "id": "I134", "coordinates": [ 463,639 ], "label":  "테크노파크", "labelPosition": "w" },
-				{ "id": "I135", "coordinates": [ 463,662 ], "label":  "지식정보단지", "labelPosition": "s" },
+				{ "id": "I134", "coordinates": [ 463,635 ], "label":  "테크노파크", "labelPosition": "w" },
+				{ "id": "I135", "coordinates": [ 463,650 ], "label":  "지식정보단지", "labelPosition": "w" },
 				{ "id": "I136", "coordinates": [ 427,662 ], "label":  "인천대입구", "labelPosition": "s" },
 				{ "id": "I137", "coordinates": [ 393,662 ], "label":  "센트럴파크", "labelPosition": "s" },
 				{ "id": "I138", "coordinates": [ 355,662 ], "label":  "국제업무지구", "labelPosition": "s" }

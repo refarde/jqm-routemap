@@ -275,6 +275,8 @@
 				maxY = ( maxY < y ) ? y : maxY;
 			}
 
+			maxY += this.element.find(".ui-legend").outerHeight();
+
 			routemapContainer.width( maxX ).height( maxY );
 		},
 

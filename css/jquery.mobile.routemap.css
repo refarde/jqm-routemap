@@ -95,6 +95,14 @@
 
 .ui-routemap .ui-legend {
 	display: inline-block;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(128,128,128);
+	padding: 2px;
+	font-size: 0.6rem;
 }
 .ui-routemap .ui-legend .ui-line {
 	float: left;
@@ -115,7 +123,7 @@
 	margin: 0.3rem 0.4rem 0 0.2rem;
 }
 .ui-routemap .ui-legend .ui-line.ui-highlight {
-	background-color: #3d67a6;
+	background-color: rgb(128,128,128);
 	color: white;
 	text-shadow: none;
 }
